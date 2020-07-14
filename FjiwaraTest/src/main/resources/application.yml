@@ -1,9 +1,0 @@
-   spring:
-    datasource:
-         driverClassName: org.postgresql.Driver
-         Url: jdbc:postgresql://localhost:5432/postgres
-         Username: postgres
-         Password: dGIC2020
-
-   mybatis:
-        config-location: classpath:/mybatis-config.xml
